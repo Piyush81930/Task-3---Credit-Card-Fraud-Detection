@@ -3,6 +3,7 @@
 This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset contains transactions made by credit cards in September 2013 by European cardholders. It is commonly used for fraud detection tasks due to its highly imbalanced nature.
 
 ## Files
+** download from here - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud**
 - **`credit_card_fraud.csv`**: The dataset containing features of credit card transactions and a label indicating whether each transaction is fraudulent (1) or legitimate (0). download from here - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - **`task3.ipynb`**: A Jupyter Notebook with the complete workflow, including data loading, preprocessing, model training, and evaluation.
 
